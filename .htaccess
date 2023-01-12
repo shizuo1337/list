@@ -23,7 +23,7 @@
     Deny from all
 </Files>
 
-<FilesMatch "^(index.php|config.php|user-edit.php)$">
+<FilesMatch "^(index.php|config.php|user-edit.php|credits.php8)$">
 
  Order allow,deny
 
